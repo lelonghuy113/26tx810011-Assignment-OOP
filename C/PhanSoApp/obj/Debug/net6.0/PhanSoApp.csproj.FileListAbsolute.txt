@@ -1,0 +1,14 @@
+D:\University\OOP\C\PhanSoApp\bin\Debug\net6.0\PhanSoApp.exe
+D:\University\OOP\C\PhanSoApp\bin\Debug\net6.0\PhanSoApp.deps.json
+D:\University\OOP\C\PhanSoApp\bin\Debug\net6.0\PhanSoApp.runtimeconfig.json
+D:\University\OOP\C\PhanSoApp\bin\Debug\net6.0\PhanSoApp.dll
+D:\University\OOP\C\PhanSoApp\bin\Debug\net6.0\PhanSoApp.pdb
+D:\University\OOP\C\PhanSoApp\obj\Debug\net6.0\PhanSoApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\University\OOP\C\PhanSoApp\obj\Debug\net6.0\PhanSoApp.AssemblyInfoInputs.cache
+D:\University\OOP\C\PhanSoApp\obj\Debug\net6.0\PhanSoApp.AssemblyInfo.cs
+D:\University\OOP\C\PhanSoApp\obj\Debug\net6.0\PhanSoApp.csproj.CoreCompileInputs.cache
+D:\University\OOP\C\PhanSoApp\obj\Debug\net6.0\PhanSoApp.dll
+D:\University\OOP\C\PhanSoApp\obj\Debug\net6.0\refint\PhanSoApp.dll
+D:\University\OOP\C\PhanSoApp\obj\Debug\net6.0\PhanSoApp.pdb
+D:\University\OOP\C\PhanSoApp\obj\Debug\net6.0\PhanSoApp.genruntimeconfig.cache
+D:\University\OOP\C\PhanSoApp\obj\Debug\net6.0\ref\PhanSoApp.dll

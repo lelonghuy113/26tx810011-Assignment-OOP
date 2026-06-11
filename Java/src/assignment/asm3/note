@@ -1,0 +1,43 @@
+class Book {
+    id: String
+    name: String
+    author: String
+    year: int
+    quantity: int
+
+    function updateQuantity(amount: int) // +1 khi trả, -1 khi mượn
+}
+
+class Reader {
+    id: String
+    name: String
+    email: String
+    type: String // student or teacher
+}
+
+class BorrowSlip {
+    id: String
+    reader: Reader
+    book: Book
+    startDate: Date
+    dueDate: Date
+    endDate: Date
+    status: String // chưa, rồi
+
+    function calculateFine(): double // nếu endDate > dueDate: (endDate - dueDate) x 5000
+}
+
+class Librarian {
+    id: String
+    name: String
+
+    function searchBook(keyword: String, searchBy: String): List<Book>
+    function checkReaderCard(reader: Reader): boolean
+    function createBorrowSlip(reader: Reader, book: Book): BorrowSlip
+    function viewOverdueSlips(): List<BorrowSlip>
+}
+
+Relationship:
+- BorrowSlip và Reader: Association (1-1)
+- BorrowSlip và Book: Association (1-1)
+- Librarian và [Book, Reader, BorrowSlip]: Dependency

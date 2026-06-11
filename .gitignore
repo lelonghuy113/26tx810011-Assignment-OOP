@@ -1,0 +1,12 @@
+# Java
+**/.idea/
+**/out/
+*.iml
+
+# C# / .NET
+**/bin/
+**/obj/
+.vs/
+*.user
+*.suo
+*.DotSettings.user
